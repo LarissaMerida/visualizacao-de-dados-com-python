@@ -40,4 +40,5 @@
       ':'	dotted line style</br>
 </br>
 </br>
-- Fonte: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html
+
+Fonte: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html
