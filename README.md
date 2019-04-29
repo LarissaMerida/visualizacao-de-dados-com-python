@@ -1,4 +1,4 @@
--*Color:*</br>
+- Color:</br>
     -'b'	blue</br>
     -'g'	green</br>
     -'r'	red</br>
